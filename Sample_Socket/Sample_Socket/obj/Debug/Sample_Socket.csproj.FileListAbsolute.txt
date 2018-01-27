@@ -38,3 +38,4 @@ E:\samplesoc\Sample_Socket\Sample_Socket\bin\Debug\Sample_Socket.exe.config
 E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.csproj.ResolveComReference.cache
 E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.exe
 E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.pdb
+E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.csprojResolveAssemblyReference.cache
