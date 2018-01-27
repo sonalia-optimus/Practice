@@ -34,3 +34,7 @@ c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Sock
 c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.exe
 c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.pdb
 c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.csprojResolveAssemblyReference.cache
+E:\samplesoc\Sample_Socket\Sample_Socket\bin\Debug\Sample_Socket.exe.config
+E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.csproj.ResolveComReference.cache
+E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.exe
+E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.pdb
