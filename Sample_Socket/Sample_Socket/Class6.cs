@@ -11,7 +11,9 @@ namespace Sample_Socket
        public static  void Main(string[] Args)
         {
             int i = 8 + 7;
+            int b = 10 + 17;
             Console.WriteLine(i);
+            Console.WriteLine(b);
             Console.ReadLine();
         }
     }

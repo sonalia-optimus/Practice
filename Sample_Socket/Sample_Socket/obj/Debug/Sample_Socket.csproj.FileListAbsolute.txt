@@ -1,41 +1,31 @@
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\bin\Debug\Sample_Socket.exe.config
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\bin\Debug\Sample_Socket.exe
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\bin\Debug\Sample_Socket.pdb
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\bin\Debug\SocketTools.SocketWrench.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\bin\Debug\SocketTools.SocketWrench.xml
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.DnsClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.FileEncoderCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.FileTransferCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.FingerClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.FtpClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.FtpServerCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.GopherClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.HttpClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.HttpServerCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.IcmpClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.ImapClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.InternetMailCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.InternetServerCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.MailMessageCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.NewsFeedCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.NntpClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.PopClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.RasDialerCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.RshClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.SmtpClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.SocketWrenchCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.SshClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.TelnetClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.TerminalCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.TextMessageCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.TimeClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Interop.WhoisClientCtl.dll
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.csproj.ResolveComReference.cache
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.exe
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.pdb
-c:\users\optimus160.optimusdom\documents\visual studio 2015\Projects\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.csprojResolveAssemblyReference.cache
-E:\samplesoc\Sample_Socket\Sample_Socket\bin\Debug\Sample_Socket.exe.config
-E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.csproj.ResolveComReference.cache
-E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.exe
-E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.pdb
-E:\samplesoc\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.csprojResolveAssemblyReference.cache
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.csprojResolveAssemblyReference.cache
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.DnsClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.FileEncoderCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.FileTransferCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.FingerClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.FtpClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.FtpServerCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.GopherClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.HttpClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.HttpServerCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.IcmpClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.ImapClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.InternetMailCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.InternetServerCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.MailMessageCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.NewsFeedCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.NntpClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.PopClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.RasDialerCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.RshClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.SmtpClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.SocketWrenchCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.SshClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.TelnetClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.TerminalCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.TextMessageCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.TimeClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Interop.WhoisClientCtl.dll
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.csproj.ResolveComReference.cache
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.exe
+C:\samplesock_dev\Sample_Socket\Sample_Socket\obj\Debug\Sample_Socket.pdb
