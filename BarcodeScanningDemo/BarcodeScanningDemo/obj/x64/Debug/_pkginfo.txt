@@ -1,0 +1,1 @@
+c:\users\mohitsingh.bora\documents\visual studio 2015\Projects\BarcodeScanningDemo\BarcodeScanningDemo\AppPackages\BarcodeScanningDemo_1.0.0.0_Debug_Test\BarcodeScanningDemo_1.0.0.0_x86_x64_arm_Debug.appxbundle

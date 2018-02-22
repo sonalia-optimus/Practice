@@ -1,0 +1,1 @@
+c:\users\mohitsingh.bora\documents\visual studio 2015\Projects\BarcodeScanningDemo\BarcodeScanningDemo\BarcodeScanningDemo.csproj;arm
