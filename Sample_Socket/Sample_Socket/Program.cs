@@ -15,14 +15,14 @@ namespace Sample_Socket
         public static int kickBackfalg = 0;
         uint[] table;
         private Object thisLock = new Object();
-        // public const string CSTOOLS4_LICENSE_KEY = "FMKLPMFRIKHBMURI";
+     
         public static Action OnConnectDelegate;
 
         public bool Initialize(string strHostIP, short intHostPort, short System_Renamed)
         {
 
             bool returnValue = false;
-            //  dynamic Policy_Renamed = default(dynamic);
+           
 
             int nError = 0;
             float timeIN = 0;
